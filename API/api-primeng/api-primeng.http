@@ -1,0 +1,6 @@
+@api_primeng_HostAddress = http://localhost:5159
+
+GET {{api_primeng_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
